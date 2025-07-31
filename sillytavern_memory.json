@@ -1,0 +1,32 @@
+[
+  {
+    "content": "You told me yesterday that you love hiking.",
+    "tags": [
+      "Alice"
+    ],
+    "timestamp": "2025-07-31 12:14:33.408097",
+    "reuse_count": 0,
+    "role": "assistant",
+    "session_id": "session-xyz"
+  },
+  {
+    "content": "We discussed your favorite foods: pizza and ramen.",
+    "tags": [
+      "Alice"
+    ],
+    "timestamp": "2025-07-31 12:14:33.408251",
+    "reuse_count": 0,
+    "role": "user",
+    "session_id": "session-xyz"
+  },
+  {
+    "content": "You wanted to visit the mountains next summer.",
+    "tags": [
+      "Alice"
+    ],
+    "timestamp": "2025-07-31 12:14:33.408379",
+    "reuse_count": 0,
+    "role": "assistant",
+    "session_id": "session-xyz"
+  }
+]
