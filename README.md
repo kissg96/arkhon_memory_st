@@ -1,6 +1,6 @@
 # Arkhon-Memory-ST
 
-This is a drop-in SillyTavern memory bridge using [`arkhon-memory`](https://github.com/kissg96/arkhon-memory).**  
+This is a drop-in SillyTavern memory bridge using [`arkhon_memory`](https://github.com/kissg96/arkhon_memory).**  
 Adds persistent memory with time-decay + reuse scoring to your character chats — lightweight, local-first, and extensible.
 
 If you hit integration issues, open an issue or DM me i'll try to help — but i hope most of you will find this plug-and-play
