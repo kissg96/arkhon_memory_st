@@ -1,6 +1,6 @@
 [project]
 name = "arkhon-memory-st"
-version = "0.1.0"
+version = "0.1.1"
 description = "SillyTavern bridge for Arkhon memory"
 authors = [{ name="kissg96", email="kissg@me.com" }]
 dependencies = [
@@ -8,8 +8,8 @@ dependencies = [
 ]
 readme = "README.md"
 requires-python = ">=3.8"
-license = {"MIT"}
+license = "MIT"
 
 [project.urls]
-"Homepage" = "https://github.com/kissg96/arkhon-memory-st"
-"Arkhon Memory SDK" = "https://github.com/kissg96/arkhon-memory"
+Homepage = "https://github.com/kissg96/arkhon-memory-st"
+ArkhonMemorySDK = "https://github.com/kissg96/arkhon_memory"
